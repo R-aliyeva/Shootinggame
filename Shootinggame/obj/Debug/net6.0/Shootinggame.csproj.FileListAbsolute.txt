@@ -1,0 +1,15 @@
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\obj\Debug\net6.0\Shootinggame.csproj.AssemblyReference.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\obj\Debug\net6.0\Shootinggame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\obj\Debug\net6.0\Shootinggame.AssemblyInfoInputs.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\obj\Debug\net6.0\Shootinggame.AssemblyInfo.cs
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\obj\Debug\net6.0\Shootinggame.csproj.CoreCompileInputs.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\bin\Debug\net6.0\Shootinggame.exe
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\bin\Debug\net6.0\Shootinggame.deps.json
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\bin\Debug\net6.0\Shootinggame.runtimeconfig.json
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\bin\Debug\net6.0\Shootinggame.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\bin\Debug\net6.0\Shootinggame.pdb
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\obj\Debug\net6.0\Shootinggame.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\obj\Debug\net6.0\refint\Shootinggame.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\obj\Debug\net6.0\Shootinggame.pdb
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\obj\Debug\net6.0\Shootinggame.genruntimeconfig.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Shootinggame\Shootinggame\obj\Debug\net6.0\ref\Shootinggame.dll
